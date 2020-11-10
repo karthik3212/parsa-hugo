@@ -1,4 +1,4 @@
-baseurl = "https://karthik-durga.netlify.com"
+baseurl = "https://karthik-durga.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
