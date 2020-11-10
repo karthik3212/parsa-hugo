@@ -5,7 +5,7 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-hasChildren = ""
+hasChildren = false
 name = "Karthik"
 url = "https://karthik-durga.netlify.app"
 weight = "Telugu"
