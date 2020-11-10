@@ -5,6 +5,7 @@ description: This is meta description
 type: featured
 image: "/vid20201110192434.mp4"
 categories:
+- New
 - Valuable Idea
 tags:
 - Photos
